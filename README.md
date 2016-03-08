@@ -2,8 +2,9 @@
 Computer Graphics assignment @ POLITEHNICA University of Bucharest
 
 ## How to use
-In order to run this program, you can either run it from within Visual Studio 2015  
+You can run the program from within Visual Studio 2015  
 or you can go to the Debug folder and run **Tema3_EGC.exe**.  
+Note that you need all the files inside the **Debug** folder in order to run the program.  
 If you don't have Visual Studio 2015 installed on your computer then you  
 have to install [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
 
