@@ -11,5 +11,5 @@ have to install [Visual C++ Redistributable for Visual Studio 2015](https://www.
 Use **WASD** keys to move around in the scene.  
 Use **F** key to enable/disable wireframe mode.  
 Use **arrow** keys to move the light source (there's a yellow sphere in the scene).  
-Hold **middle mouse button** to rotate the camera around.
+Hold **middle mouse button** to rotate the camera around.  
 Press **ESC** to exit the application.
